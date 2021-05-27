@@ -9,7 +9,7 @@ import java.net.SocketException;
  * MyConnector: 서버와 소켓통신하는 클래스
  * 소켓통신에서 송신과 수신을 스레드로 나눠 MyConnector에선 송신만 담당한다.
  * 
- * 작성자: 2017243078 민종현	/	작성날짜: 21.05.17
+ * 작성자: 2017243078 민종현	/	작성날짜: 21.05.27
  */
 
 public class MyConnector {
